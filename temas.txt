@@ -1,0 +1,10 @@
+servicios web
+wcf se puede personalizar el protocolo de comunicación.
+
+Herramientas para desarrollar con Angular
+Angular Cli
+
+repositorio de codigo fuente
+Team fundation
+GIT
+SubVersion
