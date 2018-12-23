@@ -98,3 +98,9 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MV
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\log4net.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\log4net.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.SqlServer.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.SqlServer.xml
