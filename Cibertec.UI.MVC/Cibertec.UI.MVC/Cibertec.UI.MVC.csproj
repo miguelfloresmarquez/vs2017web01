@@ -175,17 +175,33 @@
     <Content Include="Content\html\Tablas.html" />
     <Content Include="Content\images\logo.jpg" />
     <Content Include="Content\images\navidad.jpg" />
+    <Content Include="Content\js\video.js" />
+    <Content Include="Content\js\index.js" />
+    <Content Include="Content\media\html5.mp4" />
+    <Content Include="Content\media\musica.mp3" />
+    <Content Include="Content\styles.css" />
+    <Content Include="Content\styles.min.css">
+      <DependentUpon>styles.css</DependentUpon>
+    </Content>
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="productos.html" />
     <Content Include="index.html" />
-    <Content Include="Registro.html" />
+    <Content Include="Registros.html" />
+    <Content Include="Registros04.html" />
+    <Content Include="Registros03.html" />
+    <Content Include="Registros02.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="compilerconfig.json" />
+    <None Include="compilerconfig.json.defaults">
+      <DependentUpon>compilerconfig.json</DependentUpon>
+    </None>
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -197,6 +213,12 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="scss\styles.css">
+      <DependentUpon>styles.scss</DependentUpon>
+    </Content>
+    <Content Include="scss\styles.min.css">
+      <DependentUpon>styles.css</DependentUpon>
+    </Content>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -212,6 +234,10 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Productos.cshtml" />
+    <Content Include="scss\styles.scss" />
+    <Content Include="scss\base\_colors.scss" />
+    <Content Include="scss\base\_site.scss" />
+    <Content Include="scss\helpers\_mixin.scss" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

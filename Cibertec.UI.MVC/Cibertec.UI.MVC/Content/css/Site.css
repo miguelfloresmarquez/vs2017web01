@@ -72,3 +72,37 @@ section {
     float: left;
     margin-right:10px;
 }
+
+#RegistroAlta label{
+    display:block;
+    margin:10px 0 0 0;
+}
+
+#RegistroAlta2 div{
+    margin: 10px 0 0 0;
+}
+#RegistroAlta2 div label {
+    width:15%;
+    float:left;
+}
+
+#RegistroAlta3 fieldset {
+    float:left;
+    width:45%;
+}
+
+#RegistroAlta3 label {
+    display: block;
+    margin: 10px 0 0 0;
+}
+
+input:focus {
+    border: 2px solid #00aae4;
+    border-radius: 5px;
+}
+
+input{
+    border-radius:5px;
+    width:80%;
+    height:25px;
+}

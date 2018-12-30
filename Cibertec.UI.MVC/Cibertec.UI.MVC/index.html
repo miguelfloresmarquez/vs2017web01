@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <title>Bienvenidos a Cibertec Web</title>
     <link href="Content/css/Site.css" rel="stylesheet" />
+    <script src="Content/js/index.js"></script>
 </head>
 <body>
     <header>
@@ -46,8 +47,10 @@
     </section>
     <footer>
         Nuestra dirección<br />
-        &copy; Todos los derechos reservados.
+        &copy; Todos los derechos reservados a Cibertec - <span id="date"></span>.
     </footer>
-
+    <script type="text/javascript">
+        document.getElementById("date").innerHTML = cibertec.Index.currentYear();
+    </script>
 </body>
 </html>
