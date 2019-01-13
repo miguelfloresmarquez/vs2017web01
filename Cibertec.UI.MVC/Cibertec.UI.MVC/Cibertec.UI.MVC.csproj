@@ -158,9 +158,11 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\RegistroController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\PersonaViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -171,6 +173,7 @@
     <Content Include="Content\css\Site.css" />
     <Content Include="Content\html\Elementos.html" />
     <Content Include="Content\html\LocalStorageGet.html" />
+    <Content Include="Content\html\RegistroAJAX.html" />
     <Content Include="Content\html\LocalStorageSet.html" />
     <Content Include="Content\html\UsoHelpers.html" />
     <Content Include="Content\html\EventosJQuery.html" />
@@ -247,7 +250,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
+    <Folder Include="Views\Registro\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

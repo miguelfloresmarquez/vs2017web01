@@ -99,7 +99,6 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MV
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\es\System.Web.WebPages.resources.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.csprojAssemblyReference.cache
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.csproj.CoreCompileInputs.cache
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.dll
