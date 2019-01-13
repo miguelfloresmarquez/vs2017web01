@@ -170,11 +170,17 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\css\Site.css" />
     <Content Include="Content\html\Elementos.html" />
+    <Content Include="Content\html\LocalStorageGet.html" />
+    <Content Include="Content\html\LocalStorageSet.html" />
+    <Content Include="Content\html\UsoHelpers.html" />
+    <Content Include="Content\html\EventosJQuery.html" />
+    <Content Include="Content\html\Eventos.html" />
     <Content Include="Content\html\Imagenes.html" />
     <Content Include="Content\html\Listas.html" />
     <Content Include="Content\html\Tablas.html" />
     <Content Include="Content\images\logo.jpg" />
     <Content Include="Content\images\navidad.jpg" />
+    <Content Include="Content\js\helpers.js" />
     <Content Include="Content\js\video.js" />
     <Content Include="Content\js\index.js" />
     <Content Include="Content\media\html5.mp4" />
