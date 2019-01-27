@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B8D75B3-A924-4C7A-AFDB-97D667680BC0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App.Domain.Services</RootNamespace>
+    <AssemblyName>App.Domain.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CategoriaService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\App.Data.DataBase\App.Data.DataBase.csproj">
+      <Project>{D9A3485F-32D2-48A0-AA55-5D3457CF70A9}</Project>
+      <Name>App.Data.DataBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Data.Repository\App.Data.Repository.csproj">
+      <Project>{30A19249-7FD4-40DB-B027-EEC13502CD3A}</Project>
+      <Name>App.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Data.Repositoy.Interfaces\App.Data.Repositoy.Interfaces.csproj">
+      <Project>{7AF14AF6-3045-48DA-9CA0-CA0CB990B172}</Project>
+      <Name>App.Data.Repositoy.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Domain.Services.Interfaces\App.Domain.Services.Interfaces.csproj">
+      <Project>{CB5A8E10-8C08-4F2D-8A14-3BD98ED03904}</Project>
+      <Name>App.Domain.Services.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Entities.Base\App.Entities.Base.csproj">
+      <Project>{F8847ED6-D62C-45CA-A7E5-EFEB0642192F}</Project>
+      <Name>App.Entities.Base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

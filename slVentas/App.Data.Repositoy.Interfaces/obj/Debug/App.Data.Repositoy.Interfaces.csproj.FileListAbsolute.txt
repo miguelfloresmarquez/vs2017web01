@@ -1,0 +1,9 @@
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csprojAssemblyReference.cache
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CoreCompileInputs.cache
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CopyComplete
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.pdb

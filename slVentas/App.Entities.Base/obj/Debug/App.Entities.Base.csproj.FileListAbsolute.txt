@@ -1,0 +1,5 @@
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
