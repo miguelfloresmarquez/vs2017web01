@@ -11,7 +11,7 @@ namespace App.Data.Repository
 {
     public class ProductoRepository : GenericRepository<Producto>, IProductoRepository
     {
-        public ProductoRepository(DbContext pContext) : base(pContext)
+        public ProductoRepository(DbContext Context) : base(Context)
         {
         }
     }

@@ -11,7 +11,7 @@ namespace App.Data.Repository
 {
     public class MarcaRepository : GenericRepository<Marca>, IMarcaRepository
     {
-        public MarcaRepository(DbContext pContext) : base(pContext)
+        public MarcaRepository(DbContext context) : base(context)
         {
         }
     }

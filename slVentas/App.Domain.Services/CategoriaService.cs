@@ -1,5 +1,4 @@
-﻿using App.Data.DataBase;
-using App.Data.Repository;
+﻿using App.Data.Repository;
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
 using System;
@@ -25,12 +24,12 @@ namespace App.Domain.Services
 
         public Categoria GetById(int id)
         {
-            Categoria results;
+            Categoria categoria;
             using (AppUnitOfWork UnitOfWork = new AppUnitOfWork())
             {
-                results = UnitOfWork.CategoriaRepository.GetById(id);
+                categoria = UnitOfWork.CategoriaRepository.GetById(id);
             }
-            return results;
+            return categoria;
         }
 
         public bool Guardar(Categoria entidad)
@@ -48,7 +47,7 @@ namespace App.Domain.Services
                 }
                 result = true;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 result = false;
             }

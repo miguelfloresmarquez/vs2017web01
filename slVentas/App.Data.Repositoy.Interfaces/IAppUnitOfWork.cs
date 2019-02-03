@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace App.Data.Repositoy.Interfaces
 {
-    public interface IAppUnitOfWork:IDisposable
+    public interface IAppUnitOfWork : IDisposable
     {
         ICategoriaRepository CategoriaRepository { get; set; }
+        IMarcaRepository MarcaRepository { get; set; }
+        IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
+        IProductoRepository ProductoRepository { get; set; }
         int Complete();
     }
 }

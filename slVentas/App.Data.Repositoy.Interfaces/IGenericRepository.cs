@@ -13,7 +13,7 @@ namespace App.Data.Repositoy.Interfaces
         void Update(TEntity entity);
         void Remove(TEntity entity);
         TEntity GetById(int id);
-        IEnumerable<TEntity> GetAll(Expression<Func<TEntity, bool>> predicate = null);
+        IEnumerable<TEntity> GetAll(Expression<Func<TEntity, bool>> predicate = null, string includes = null);
         int Count();
     }
 }

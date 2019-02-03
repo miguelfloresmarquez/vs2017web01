@@ -11,7 +11,7 @@ namespace App.Data.Repository
 {
     public class UnidadMedidaRepository : GenericRepository<UnidadMedida>, IUnidadMedidaRepository
     {
-        public UnidadMedidaRepository(DbContext pContext) : base(pContext)
+        public UnidadMedidaRepository(DbContext Context) : base(Context)
         {
         }
     }

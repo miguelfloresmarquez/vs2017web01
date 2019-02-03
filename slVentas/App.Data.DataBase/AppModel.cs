@@ -11,6 +11,8 @@ namespace App.Data.DataBase
         public AppModel()
             : base("name=AppModel")
         {
+            this.Configuration.LazyLoadingEnabled = false;
+            this.Configuration.ProxyCreationEnabled = false;
         }
 
         public virtual DbSet<Categoria> Categoria { get; set; }

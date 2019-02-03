@@ -1,3 +1,21 @@
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
