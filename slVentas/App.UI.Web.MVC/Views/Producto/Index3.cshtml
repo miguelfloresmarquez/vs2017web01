@@ -25,6 +25,22 @@
 @section scriptsAdicionales
 {
     <script src="~/Scripts/mustache.min.js"></script>
+
+    <script id="resultadoTable" type="x-tmpl-mustable">
+        <table class="table">
+            <tr>
+                <td>Codigo</td>
+                <td>Nombre</td>
+            </tr>
+            {{#Resultado}}
+            <tr>
+                <td>{{ProductoCode}}</td>
+                <td>{{Nombre}}</td>
+            </tr>
+            {{/Resultado}}
+        </table>
+    </script>
+
     <script type="text/javascript">
         $(document).ready(configInit);
         function configInit() {
@@ -38,7 +54,10 @@
                     filterByCategoria: $("#filterByCategoria").val()
                 },
                 function (response) {
-                    debugger;
+                    var template = $("#resultadoTable").html();
+                    Mustache.parse(template);
+                    var htmlRendered = Mustache.render(template, { Resultado: response })
+                    $("#resultado").html(htmlRendered);
                 }
             )
         }
