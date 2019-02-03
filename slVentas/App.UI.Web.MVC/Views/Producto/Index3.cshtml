@@ -56,7 +56,7 @@
                 function (response) {
                     var template = $("#resultadoTable").html();
                     Mustache.parse(template);
-                    var htmlRendered = Mustache.render(template, { Resultado: response })
+                    var htmlRendered = Mustache.render(template, { Resultado: JSON.parse(response) })
                     $("#resultado").html(htmlRendered);
                 }
             )
