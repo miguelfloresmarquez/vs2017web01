@@ -24,15 +24,34 @@ namespace App.Domain.Services
 
         public Producto GetById(int id)
         {
-            Producto producto = new Producto();
+            Producto producto;
+            using (AppUnitOfWork UnitOfWork = new AppUnitOfWork())
+            {
+                producto = UnitOfWork.ProductoRepository.GetById(id);
+            }
             return producto;
         }
 
         public bool Guardar(Producto entidad)
         {
-            bool xRe = true;
-
-            return xRe;
+            bool respuesta = false;
+            try
+            {
+                using (AppUnitOfWork UnitOfWork = new AppUnitOfWork())
+                {
+                    if (entidad.ProductoID == 0)
+                        UnitOfWork.ProductoRepository.Add(entidad);
+                    else
+                        UnitOfWork.ProductoRepository.Update(entidad);
+                    UnitOfWork.Complete();
+                }
+                respuesta = true;
+            }
+            catch (Exception ex)
+            {
+                respuesta = false;
+            }
+            return respuesta;
         }
     }
 }

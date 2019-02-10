@@ -13,6 +13,28 @@ namespace App.UI.Web.MVC
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            /*1. Rutas estática*/
+            routes.MapRoute(
+                name: "rutaEstaticaCatalogo",
+                url: "Catalogo",
+                defaults: new
+                {
+                    controller = "Producto",
+                    action = "Index2"
+                }
+                );
+
+            /*2. Rutas SEO*/
+            routes.MapRoute(
+                name: "rutaSEOCatalogo",
+                url: "Catalogo/{id}/{name}",
+                defaults: new
+                {
+                    controller = "Producto",
+                    action = "Edit"
+                }
+                );
+            /*Mapa de rutas por defecto deben ir al final*/
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

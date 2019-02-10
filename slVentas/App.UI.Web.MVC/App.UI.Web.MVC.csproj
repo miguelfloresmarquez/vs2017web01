@@ -159,6 +159,8 @@
     <Compile Include="Controllers\Mantenimientos\MarcaController.cs" />
     <Compile Include="Controllers\Mantenimientos\ProductoController.cs" />
     <Compile Include="Controllers\Mantenimientos\UnidadMedidaController.cs" />
+    <Compile Include="Filters\HandleCustomError.cs" />
+    <Compile Include="Filters\LoggingFilterAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -214,6 +216,7 @@
     <Content Include="Views\Producto\Index2.cshtml" />
     <Content Include="Views\Producto\Index2Resultado.cshtml" />
     <Content Include="Views\Producto\Index3.cshtml" />
+    <Content Include="Views\Producto\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

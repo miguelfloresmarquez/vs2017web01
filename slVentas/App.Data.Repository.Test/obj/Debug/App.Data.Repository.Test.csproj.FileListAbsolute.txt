@@ -30,38 +30,6 @@ C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CopyComplete
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.dll
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.Test.dll.config
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.Test.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.Test.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repositoy.Interfaces.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Base.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.dll.config
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.dll.config
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repositoy.Interfaces.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Base.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csprojAssemblyReference.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CopyComplete
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -94,3 +62,35 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.T
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.Test.dll.config
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.Test.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.Test.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repositoy.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Base.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.dll.config
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repositoy.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Base.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CopyComplete
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.pdb

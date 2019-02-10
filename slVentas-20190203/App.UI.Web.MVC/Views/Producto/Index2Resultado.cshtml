@@ -1,0 +1,27 @@
+﻿@model IEnumerable<App.Entities.Base.Producto>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Codigo</th>
+        <th>Nombre</th>
+        <th>Categoria</th>
+        <th>Marca</th>
+        <th>Precio Mayor</th>
+        <th>Precio Menor</th>
+        <th>Stock Actual</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductoCode</td>
+            <td>@item.Nombre</td>
+            <td>@item.Categoria.Nombre</td>
+            <td>@item.Marca.Nombre</td>
+            <td>@item.PrecioMayor</td>
+            <td>@item.PrecioMenor</td>
+            <td>@item.StockActual</td>
+        </tr>
+    }
+
+</table>

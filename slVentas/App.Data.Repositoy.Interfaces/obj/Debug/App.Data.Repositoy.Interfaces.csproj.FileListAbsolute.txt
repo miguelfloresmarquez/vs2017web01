@@ -7,15 +7,6 @@ C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CopyComplete
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.dll
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csprojAssemblyReference.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CopyComplete
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.dll
@@ -25,3 +16,12 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.In
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Data.Repositoy.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.csproj.CopyComplete
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.Repositoy.Interfaces\obj\Debug\App.Data.Repositoy.Interfaces.pdb

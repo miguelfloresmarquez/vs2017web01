@@ -2,27 +2,6 @@ C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repositoy.Interfaces.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repositoy.Interfaces.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
@@ -44,3 +23,24 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\o
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repositoy.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Entities.Base.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repository.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repository.dll.config
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Data.Repositoy.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\App.Entities.Base.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.csproj.CopyComplete
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Domain.Services\obj\Debug\App.Domain.Services.pdb

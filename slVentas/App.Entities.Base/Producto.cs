@@ -32,11 +32,11 @@ namespace App.Entities.Base
 
         public decimal StockMinimo { get; set; }
 
-        public bool Estado { get; set; }
+        public bool? Estado { get; set; }
 
-        public Guid UsuarioCreador { get; set; }
+        public Guid? UsuarioCreador { get; set; }
 
-        public DateTime FechaCreacion { get; set; }
+        public DateTime? FechaCreacion { get; set; }
 
         public Guid? UsuarioModificador { get; set; }
 

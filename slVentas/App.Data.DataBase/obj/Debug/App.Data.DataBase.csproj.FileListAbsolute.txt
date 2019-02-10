@@ -12,20 +12,6 @@ C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
-C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
@@ -40,3 +26,17 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\obj
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
+C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
