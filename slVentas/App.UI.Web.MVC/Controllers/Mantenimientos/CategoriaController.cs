@@ -1,6 +1,7 @@
 ﻿using App.Domain.Services;
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
+using App.UI.Web.MVC.ModelBinders;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,9 +31,17 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             return View();
         }
 
+        //[HttpPost]
+        //public ActionResult Create(Categoria model)
+        //{
+        //    bool result = categoriaServices.Guardar(model);
+        //    return RedirectToAction("Index");
+        //}
+
         [HttpPost]
-        public ActionResult Create(Categoria model)
+        public ActionResult Create([ModelBinder(binderType: typeof(CategoriaBinder))] Categoria model)
         {
+
             bool result = categoriaServices.Guardar(model);
             return RedirectToAction("Index");
         }

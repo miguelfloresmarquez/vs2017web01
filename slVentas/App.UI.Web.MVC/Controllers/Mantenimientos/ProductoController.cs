@@ -2,10 +2,12 @@
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
 using App.UI.Web.MVC.Filters;
+using App.UI.Web.MVC.Models.ViewModels;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 
@@ -13,7 +15,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
     [LoggingFilter]
     [HandleCustomError]
-    public class ProductoController : Controller
+    public class ProductoController : BaseController
     {
         private readonly IProductoService productoService;
         private readonly ICategoriaService categoriaService;
@@ -39,6 +41,16 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             return View(model);
         }
 
+        public ActionResult IndexVM(ProductoSearchViewModel model)
+        {
+            string filterByName = string.IsNullOrWhiteSpace(model.FilterByName) ? "" : model.FilterByName.Trim();
+            model.Categorias = categoriaService.GetAll("").ToList();
+            model.Marcas = marcaService.GetAll("").ToList();
+            model.Productos = productoService.GetAll(filterByName, model.FilterByCategoria, model.FilterByMarca).ToList();
+
+            return View(model);
+        }
+
         public ActionResult Index2(string filterByName, int? filterByCategoria, int? filterByMarca)
         {
             try
@@ -51,7 +63,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             }
             catch (Exception ex)
             {
-
+                log.Error(ex);
             }
 
             return View();
@@ -96,11 +108,11 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         }
 
         [HttpPost]
-        public ActionResult Create(Producto model, int CategoriaID, int MarcaID, int UnidadMedidaID)
+        public ActionResult Create(Producto model, int iCategoriaID, int iMarcaID, int iUnidadMedidaID)
         {
-            model.CategoriaID = CategoriaID;
-            model.MarcaID = MarcaID;
-            model.UnidadMedidaID = UnidadMedidaID;
+            model.CategoriaID = iCategoriaID;
+            model.MarcaID = iMarcaID;
+            model.UnidadMedidaID = iUnidadMedidaID;
 
             bool result = productoService.Guardar(model);
             return RedirectToAction("Index");
@@ -110,7 +122,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         {
             Producto model = productoService.GetById(id);
 
-            ViewBag.CategoriaID = categoriaService.GetAll("");
+            ViewBag.Categorias = categoriaService.GetAll("");
             ViewBag.Marcas = marcaService.GetAll("");
             ViewBag.UnidadMedida = unidadMedidaService.GetAll("");
 

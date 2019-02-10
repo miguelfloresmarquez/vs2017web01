@@ -352,3 +352,5 @@ C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\log4net.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\log4net.xml
