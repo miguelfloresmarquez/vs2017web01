@@ -321,3 +321,31 @@ Nombre del parámetro: items
 2019-02-17 10:57:24,096 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 10:57:24
 2019-02-17 10:57:26,623 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2Buscar, Hora de inicio: 17/02/2019 10:57:26
 2019-02-17 10:57:26,627 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2Buscar, Hora de fin: 17/02/2019 10:57:26
+2019-02-17 13:47:48,926 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2, Hora de inicio: 17/02/2019 13:47:48
+2019-02-17 13:47:48,967 [13] ERROR App.UI.Web.MVC.Controllers.BaseController System.Exception: Lanzando un error simulado
+   en App.UI.Web.MVC.Controllers.Mantenimientos.ProductoController.Index2(String filterByName, Nullable`1 filterByCategoria, Nullable`1 filterByMarca) en E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\Controllers\Mantenimientos\ProductoController.cs:línea 62
+2019-02-17 13:47:48,969 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 13:47:48
+2019-02-17 13:47:52,646 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2, Hora de inicio: 17/02/2019 13:47:52
+2019-02-17 13:47:52,659 [11] ERROR App.UI.Web.MVC.Controllers.BaseController System.Exception: Lanzando un error simulado
+   en App.UI.Web.MVC.Controllers.Mantenimientos.ProductoController.Index2(String filterByName, Nullable`1 filterByCategoria, Nullable`1 filterByMarca) en E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\Controllers\Mantenimientos\ProductoController.cs:línea 62
+2019-02-17 13:47:52,659 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 13:47:52
+2019-02-17 13:47:57,907 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2Buscar, Hora de inicio: 17/02/2019 13:47:57
+2019-02-17 13:47:57,954 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2Buscar, Hora de fin: 17/02/2019 13:47:57
+2019-02-17 13:48:02,815 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Edit, Hora de inicio: 17/02/2019 13:48:02
+2019-02-17 13:48:02,866 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Edit, Hora de fin: 17/02/2019 13:48:02
+2019-02-17 13:48:15,792 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2, Hora de inicio: 17/02/2019 13:48:15
+2019-02-17 13:48:15,806 [11] ERROR App.UI.Web.MVC.Controllers.BaseController System.Exception: Lanzando un error simulado
+   en App.UI.Web.MVC.Controllers.Mantenimientos.ProductoController.Index2(String filterByName, Nullable`1 filterByCategoria, Nullable`1 filterByMarca) en E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\Controllers\Mantenimientos\ProductoController.cs:línea 62
+2019-02-17 13:48:15,806 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 13:48:15
+2019-02-17 13:48:20,822 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2, Hora de inicio: 17/02/2019 13:48:20
+2019-02-17 13:48:20,834 [13] ERROR App.UI.Web.MVC.Controllers.BaseController System.Exception: Lanzando un error simulado
+   en App.UI.Web.MVC.Controllers.Mantenimientos.ProductoController.Index2(String filterByName, Nullable`1 filterByCategoria, Nullable`1 filterByMarca) en E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\Controllers\Mantenimientos\ProductoController.cs:línea 62
+2019-02-17 13:48:20,834 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 13:48:20
+2019-02-17 13:48:22,887 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2, Hora de inicio: 17/02/2019 13:48:22
+2019-02-17 13:48:22,900 [11] ERROR App.UI.Web.MVC.Controllers.BaseController System.Exception: Lanzando un error simulado
+   en App.UI.Web.MVC.Controllers.Mantenimientos.ProductoController.Index2(String filterByName, Nullable`1 filterByCategoria, Nullable`1 filterByMarca) en E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\Controllers\Mantenimientos\ProductoController.cs:línea 62
+2019-02-17 13:48:22,900 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 13:48:22
+2019-02-17 13:49:36,240 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto, Action: Index2, Hora de inicio: 17/02/2019 13:49:36
+2019-02-17 13:49:36,257 [11] ERROR App.UI.Web.MVC.Controllers.BaseController System.Exception: Lanzando un error simulado
+   en App.UI.Web.MVC.Controllers.Mantenimientos.ProductoController.Index2(String filterByName, Nullable`1 filterByCategoria, Nullable`1 filterByMarca) en E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\Controllers\Mantenimientos\ProductoController.cs:línea 62
+2019-02-17 13:49:36,257 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto, Action: Index2, Hora de fin: 17/02/2019 13:49:36

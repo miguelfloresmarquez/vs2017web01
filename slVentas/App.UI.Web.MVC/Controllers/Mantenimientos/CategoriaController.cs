@@ -22,8 +22,9 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         // GET: Categoria
         public ActionResult Index()
         {
-            IEnumerable<Categoria> model = categoriaServices.GetAll("");
-            return View(model);
+            //IEnumerable<Categoria> model = categoriaServices.GetAll("");
+            //return View(model);
+            return View();
         }
 
         public ActionResult Create()

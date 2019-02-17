@@ -21,7 +21,8 @@
     </p>
 }
 <div id="listado">
-    @Html.Partial("IndexListado", Model)
+    @*@Html.Partial("IndexListado", Model)*@
+    @Html.Action("Buscar")
 </div>
 
-@Modal.CreateModal("Crear Categoria", "CategoriaCreatePopup");
+@Modal.CreateModal("Crear Categoria", "CategoriaCreatePopup")
