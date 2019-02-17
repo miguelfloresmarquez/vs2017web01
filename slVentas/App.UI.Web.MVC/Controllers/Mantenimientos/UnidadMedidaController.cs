@@ -14,9 +14,9 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         // GET: UnidadMedida
         private readonly IUnidadMedidaService unidadMedidaServices;
 
-        public UnidadMedidaController()
+        public UnidadMedidaController(IUnidadMedidaService pUnidadMedidaServices)
         {
-            unidadMedidaServices = new UnidadMedidaService();
+            unidadMedidaServices = pUnidadMedidaServices;
         }
 
         public ActionResult Index()

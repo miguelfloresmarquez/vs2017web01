@@ -25,33 +25,6 @@ C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.csproj.CopyComplete
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.dll
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.pdb
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Data.DataBase.Test.dll.config
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Data.DataBase.Test.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Data.DataBase.Test.pdb
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Data.DataBase.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Entities.Base.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\EntityFramework.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\EntityFramework.SqlServer.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Data.DataBase.pdb
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Data.DataBase.dll.config
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\App.Entities.Base.pdb
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\EntityFramework.xml
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\EntityFramework.SqlServer.xml
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.csprojAssemblyReference.cache
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.csproj.CoreCompileInputs.cache
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.csproj.CopyComplete
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.DataBase.Test\obj\Debug\App.Data.DataBase.Test.pdb
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Data.DataBase.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

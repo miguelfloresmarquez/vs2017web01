@@ -4,14 +4,13 @@ C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Users\Miguel\Documents\Visual Studio\Web Develepor\Clases\Semana 06\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
-E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

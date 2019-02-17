@@ -22,12 +22,12 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         private readonly IMarcaService marcaService;
         private readonly IUnidadMedidaService unidadMedidaService;
 
-        public ProductoController()
+        public ProductoController(IProductoService pProductoService, ICategoriaService pCategoriaService, IMarcaService pMarcaService, IUnidadMedidaService pUnidadMedidaService)
         {
-            productoService = new ProductoService();
-            categoriaService = new CategoriaService();
-            marcaService = new MarcaService();
-            unidadMedidaService = new UnidadMedidaService();
+            productoService = pProductoService;
+            categoriaService = pCategoriaService;
+            marcaService = pMarcaService;
+            unidadMedidaService = pUnidadMedidaService;
         }
         // GET: Producto
         public ActionResult Index(string filterByName, int? filterByCategoria, int? filterByMarca)

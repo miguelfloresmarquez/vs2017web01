@@ -13,9 +13,9 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
     {
         private readonly IMarcaService marcaServices;
         // GET: Marca
-        public MarcaController()
+        public MarcaController(IMarcaService pMarcaServices)
         {
-            marcaServices = new MarcaService();
+            marcaServices = pMarcaServices;
         }
 
         public ActionResult Index()

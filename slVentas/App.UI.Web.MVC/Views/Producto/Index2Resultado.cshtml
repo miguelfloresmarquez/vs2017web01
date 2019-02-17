@@ -1,4 +1,5 @@
 ﻿@model IEnumerable<App.Entities.Base.Producto>
+@using App.UI.Web.MVC.CustomHtmlHelpers;
 
 <table class="table table-bordered">
     <tr>
@@ -9,23 +10,25 @@
         <th>Precio Mayor</th>
         <th>Precio Menor</th>
         <th>Stock Actual</th>
+        <th>Stock Actual</th>
         <th>Acción</th>
     </tr>
 
     @foreach (var item in Model)
     {
-        <tr>
-            <td>@item.ProductoCode</td>
-            <td>@item.Nombre</td>
-            <td>@item.Categoria.Nombre</td>
-            <td>@item.Marca.Nombre</td>
-            <td>@item.PrecioMayor</td>
-            <td>@item.PrecioMenor</td>
-            <td>@item.StockActual</td>
-            <td>
-                @Html.ActionLink("Editar", "Edit", "Producto", new { id=@item.ProductoID, name=item.Nombre}, null)
-            </td>
-        </tr>
+    <tr>
+        <td>@item.ProductoCode</td>
+        <td>@item.Nombre</td>
+        <td>@item.Categoria.Nombre</td>
+        <td>@item.Marca.Nombre</td>
+        <td>@item.PrecioMayor</td>
+        <td>@item.PrecioMenor</td>
+        <td>@item.StockActual</td>
+        <td>@Html.SemaforoStock(@item.StockActual)</td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", "Producto", new { id = @item.ProductoID, name = item.Nombre }, null)
+        </td>
+    </tr>
     }
 
 </table>

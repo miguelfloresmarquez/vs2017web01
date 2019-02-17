@@ -14,9 +14,9 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
     {
         private readonly ICategoriaService categoriaServices;
 
-        public CategoriaController()
+        public CategoriaController(ICategoriaService pCategoriaServices)
         {
-            categoriaServices = new CategoriaService();
+            categoriaServices = pCategoriaServices;
         }
 
         // GET: Categoria
@@ -28,7 +28,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 
         public ActionResult Create()
         {
-            return View();
+            return PartialView();
         }
 
         //[HttpPost]
@@ -57,6 +57,13 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         {
             bool result = categoriaServices.Guardar(model);
             return RedirectToAction("Index");
+        }
+
+        public ActionResult Buscar(string filtroPorNombre)
+        {
+            filtroPorNombre = filtroPorNombre != null ? filtroPorNombre : "";
+            var model = categoriaServices.GetAll(filtroPorNombre);
+            return PartialView("IndexListado", model);
         }
     }
 }
