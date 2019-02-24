@@ -15,6 +15,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
     [LoggingFilter]
     [HandleCustomError]
+    [Authorize(Roles = "Admin")]
     public class ProductoController : BaseController
     {
         private readonly IProductoService productoService;

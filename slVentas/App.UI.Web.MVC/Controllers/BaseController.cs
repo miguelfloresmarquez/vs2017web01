@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers
 {
+    [Authorize]
     [LoggingFilter]
     [HandleCustomError]
     public class BaseController: Controller

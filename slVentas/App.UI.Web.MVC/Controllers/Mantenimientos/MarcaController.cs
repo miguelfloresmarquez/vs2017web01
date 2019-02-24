@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
-    public class MarcaController : Controller
+    public class MarcaController : BaseController
     {
         private readonly IMarcaService marcaServices;
         // GET: Marca

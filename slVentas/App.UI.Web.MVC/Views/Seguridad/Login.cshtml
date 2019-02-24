@@ -1,0 +1,39 @@
+﻿@model App.UI.Web.MVC.Models.ViewModels.LoginViewModel
+@{
+    ViewBag.Title = "Ingreso de usuario";
+}
+
+@using (Html.BeginForm())
+{
+    if (Model != null && !string.IsNullOrEmpty(Model.MensajeValidacion))
+    {
+        <div class="alert alert-danger" role="alert">@Model.MensajeValidacion</div>
+    }
+
+    <div class="form-horizontal">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Usuario</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(item => item.Login, new { htmlattribute = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(item => item.Login, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Clave</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(item => item.Password, new { htmlattribute = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(item => item.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button type="submit" class="btn btn-default">Ingresar</button>
+            </div>
+        </div>
+    </div>
+}
+
+@section scriptsAdicionales
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

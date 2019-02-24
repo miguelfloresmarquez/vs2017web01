@@ -51,6 +51,7 @@
     <Compile Include="CategoriaRepository.cs" />
     <Compile Include="GenericRepository.cs" />
     <Compile Include="MarcaRepository.cs" />
+    <Compile Include="UsuarioRepository.cs" />
     <Compile Include="ProductoRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnidadMedidaRepository.cs" />

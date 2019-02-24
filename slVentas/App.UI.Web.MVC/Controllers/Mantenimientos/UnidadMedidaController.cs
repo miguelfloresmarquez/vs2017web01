@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
-    public class UnidadMedidaController : Controller
+    public class UnidadMedidaController : BaseController
     {
         // GET: UnidadMedida
         private readonly IUnidadMedidaService unidadMedidaServices;

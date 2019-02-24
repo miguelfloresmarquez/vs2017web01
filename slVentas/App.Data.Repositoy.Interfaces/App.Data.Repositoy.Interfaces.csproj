@@ -44,6 +44,7 @@
     <Compile Include="ICategoriaRepository.cs" />
     <Compile Include="IGenericRepository.cs" />
     <Compile Include="IMarcaRepository.cs" />
+    <Compile Include="IUsuarioRepository.cs" />
     <Compile Include="IProductoRepository.cs" />
     <Compile Include="IUnidadMedidaRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

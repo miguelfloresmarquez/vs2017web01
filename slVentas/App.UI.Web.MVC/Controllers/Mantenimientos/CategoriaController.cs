@@ -10,7 +10,7 @@ using System.Web.Mvc;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
-    public class CategoriaController : Controller
+    public class CategoriaController : BaseController
     {
         private readonly ICategoriaService categoriaServices;
 

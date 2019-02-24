@@ -302,8 +302,13 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Mi
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.ApplicationInsights.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Security.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Newtonsoft.Json.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Owin.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
@@ -325,6 +330,10 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Ap
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\EntityFramework.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\EntityFramework.SqlServer.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\log4net.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Security.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Security.Cookies.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
