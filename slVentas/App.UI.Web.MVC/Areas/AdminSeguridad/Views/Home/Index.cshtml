@@ -1,0 +1,18 @@
+﻿@model IEnumerable<App.Entities.Base.Usuario>
+@{
+    ViewBag.Title = "Lista de Usuarios";
+}
+
+<h2>Lista de Usuarios</h2>
+
+
+@using (Ajax.BeginForm("BuscarUsuario", "Home", new { Area="AdminSeguridad" }, new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "listado" }))
+{
+    <p>
+        <input name="filtroPorNombre" />
+        <button type="submit" class="buscar">Buscar</button>
+    </p>
+}
+<div id="listado">
+ @*   @Html.Action("BuscarUsuario")*@
+</div>

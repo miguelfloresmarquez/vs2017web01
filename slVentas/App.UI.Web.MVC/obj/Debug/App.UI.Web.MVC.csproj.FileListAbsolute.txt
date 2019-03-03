@@ -369,3 +369,12 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\obj\De
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\AutoMapper.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\System.ValueTuple.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\AutoMapper.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\AutoMapper.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\System.ValueTuple.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\AntiXssLibrary.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\HtmlSanitizationLibrary.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\AntiXssLibrary.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC\bin\HtmlSanitizationLibrary.xml

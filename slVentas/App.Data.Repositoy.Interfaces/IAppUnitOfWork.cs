@@ -13,6 +13,7 @@ namespace App.Data.Repositoy.Interfaces
         IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
         IProductoRepository ProductoRepository { get; set; }
         IUsuarioRepository UsuarioRepository { get; set; }
+        IComentarioRepository ComentarioRepository { get; set; }
         int Complete();
     }
 }

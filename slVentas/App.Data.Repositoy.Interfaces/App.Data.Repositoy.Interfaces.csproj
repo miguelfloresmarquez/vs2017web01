@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="IAppUnitOfWork.cs" />
     <Compile Include="ICategoriaRepository.cs" />
+    <Compile Include="IComentarioRepository.cs" />
     <Compile Include="IGenericRepository.cs" />
     <Compile Include="IMarcaRepository.cs" />
     <Compile Include="IUsuarioRepository.cs" />

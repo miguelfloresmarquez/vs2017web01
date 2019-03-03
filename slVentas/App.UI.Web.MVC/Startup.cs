@@ -16,7 +16,7 @@ namespace App.UI.Web.MVC
             {
                 AuthenticationType = "ApplicationCookies",
                 CookieName = "AuthSistemaComercio",
-                ExpireTimeSpan = TimeSpan.FromSeconds(5),
+                ExpireTimeSpan = TimeSpan.FromSeconds(40),
                 LoginPath = new PathString("/Seguridad/Login")
             });
         }

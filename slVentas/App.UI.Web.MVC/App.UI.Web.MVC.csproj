@@ -46,11 +46,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AntiXssLibrary, Version=4.3.0.0, Culture=neutral, PublicKeyToken=d127efab8a9c114f, processorArchitecture=MSIL">
+      <HintPath>..\packages\AntiXSS.4.3.0\lib\net40\AntiXssLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper, Version=8.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.8.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlSanitizationLibrary, Version=4.3.0.0, Culture=neutral, PublicKeyToken=d127efab8a9c114f, processorArchitecture=MSIL">
+      <HintPath>..\packages\AntiXSS.4.3.0\lib\net40\HtmlSanitizationLibrary.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
@@ -83,6 +92,9 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -181,9 +193,13 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\DIConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\Mappers.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\AdminSeguridad\Controllers\HomeController.cs" />
+    <Compile Include="Areas\AdminSeguridad\AdminSeguridadAreaRegistration.cs" />
     <Compile Include="Common\SecurityHelpers.cs" />
     <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\ComentarioController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Mantenimientos\CategoriaController.cs" />
     <Compile Include="Controllers\Mantenimientos\MarcaController.cs" />
@@ -197,6 +213,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="ModelBinders\CategoriaBinder.cs" />
+    <Compile Include="Models\ViewModels\ComentarioViewModel.cs" />
     <Compile Include="Models\ViewModels\LoginViewModel.cs" />
     <Compile Include="Models\ViewModels\ProductoSearchViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -780,6 +797,10 @@
     <Content Include="Content\themes\main\bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Content\themes\main\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="App_Code\Modal.cshtml" />
+    <Content Include="Areas\AdminSeguridad\Views\web.config" />
+    <Content Include="Areas\AdminSeguridad\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\AdminSeguridad\Views\Home\Index.cshtml" />
+    <Content Include="Areas\AdminSeguridad\Views\Home\IndexLista.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -826,9 +847,13 @@
     <Content Include="Views\Shared\UserLogged.cshtml" />
     <Content Include="Views\Shared\_menu.cshtml" />
     <Content Include="Views\Shared\_notificacion.cshtml" />
+    <Content Include="Views\Comentario\Registrar.cshtml" />
+    <Content Include="Views\Comentario\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\AdminSeguridad\Models\" />
+    <Folder Include="Areas\AdminSeguridad\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

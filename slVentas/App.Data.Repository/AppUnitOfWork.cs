@@ -32,6 +32,7 @@ namespace App.Data.Repository
             this.UnidadMedidaRepository = new UnidadMedidaRepository(_context);
             this.ProductoRepository = new ProductoRepository(_context);
             this.UsuarioRepository = new UsuarioRepository(_context);
+            this.ComentarioRepository = new ComentarioRepository(_context);
         }
 
         public ICategoriaRepository CategoriaRepository { get; set; }
@@ -39,6 +40,7 @@ namespace App.Data.Repository
         public IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
         public IProductoRepository ProductoRepository { get; set; }
         public IUsuarioRepository UsuarioRepository { get; set; }
+        public IComentarioRepository ComentarioRepository { get; set; }
 
         public int Complete()
         {

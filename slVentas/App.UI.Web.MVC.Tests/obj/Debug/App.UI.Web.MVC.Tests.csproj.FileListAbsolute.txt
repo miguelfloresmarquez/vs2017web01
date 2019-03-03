@@ -201,3 +201,10 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\obj\Debug\App.UI.Web.MVC.Tests.csproj.CopyComplete
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\obj\Debug\App.UI.Web.MVC.Tests.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\obj\Debug\App.UI.Web.MVC.Tests.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\AutoMapper.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\System.ValueTuple.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\AutoMapper.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\AutoMapper.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.UI.Web.MVC.Tests\bin\Debug\System.ValueTuple.xml
