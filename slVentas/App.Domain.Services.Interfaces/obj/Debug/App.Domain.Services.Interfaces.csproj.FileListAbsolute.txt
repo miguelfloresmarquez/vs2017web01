@@ -19,7 +19,9 @@ C:\Users\Usuario\Documents\Archivos Miguel\Visual Studio\Web Developer\slVentas\
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Queries.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.pdb
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Queries.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csprojAssemblyReference.cache
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete

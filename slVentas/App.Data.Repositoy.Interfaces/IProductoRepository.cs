@@ -1,4 +1,5 @@
 ﻿using App.Entities.Base;
+using App.Entities.Queries;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,6 @@ namespace App.Data.Repositoy.Interfaces
 {
     public interface IProductoRepository:IGenericRepository<Producto>
     {
+        ListaPaginada<ProductoSearch> BuscarProductosStock(ProductoSearchFiltros filtros);
     }
 }

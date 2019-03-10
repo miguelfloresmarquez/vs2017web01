@@ -79,6 +79,7 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.T
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.SqlServer.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Queries.dll
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.DataBase.dll.config
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\App.Data.Repository.pdb
@@ -89,6 +90,7 @@ E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.T
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\EntityFramework.SqlServer.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\bin\Debug\App.Entities.Queries.pdb
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csprojAssemblyReference.cache
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CoreCompileInputs.cache
 E:\MiguelFlores\Cibertec\WebDeveloper\vs2017web01\slVentas\App.Data.Repository.Test\obj\Debug\App.Data.Repository.Test.csproj.CopyComplete

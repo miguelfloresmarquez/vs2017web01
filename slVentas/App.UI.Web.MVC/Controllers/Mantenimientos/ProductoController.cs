@@ -1,6 +1,7 @@
 ﻿using App.Domain.Services;
 using App.Domain.Services.Interfaces;
 using App.Entities.Base;
+using App.Entities.Queries;
 using App.UI.Web.MVC.Filters;
 using App.UI.Web.MVC.Models.ViewModels;
 using Newtonsoft.Json;
@@ -128,6 +129,18 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             ViewBag.UnidadMedida = unidadMedidaService.GetAll("");
 
             return View("Create", model);
+        }
+
+        public ActionResult ConsultaProductosStock()
+        {
+
+            return View();
+        }
+
+        public JsonResult BuscarProductosStock(ProductoSearchFiltros filtros)
+        {
+            ListaPaginada<ProductoSearch> model = productoService.BuscarProductosStock(filtros);
+            return Json(model, JsonRequestBehavior.AllowGet);
         }
     }
 }

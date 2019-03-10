@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "ConsultaProductosStock";
+}
+
+@*@using (Ajax.BeginForm("BuscarProductosStock", "Producto", new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "ListaProducto" }))
+{
+    <p>
+        <input name="filtroPorNombre" />
+        <button type="submit" class="buscar">Buscar</button>
+    </p>
+}*@
+<div class="ConsultaProductosStock">
+    <input class="Nombre" />
+    <input class="Stock" />
+    <button type="submit" class="Buscar">Buscar</button>
+</div>
+
+<div id="ListaProductos"></div>
+
+@section scriptsAdicionales
+{
+    <script>
+        app.ConsultaProductosStockView.Init()
+    </script>
+}
+
